@@ -1,4 +1,4 @@
-# fake-documentary-poster-credits
+# fake-documentary-poster-credits (spring 2021)
 
 This repository contains the file of a fake documentary poster I created for my Digital Humanity course. It was created to point out that humans have always been deeply intertwined with technology, long before the digital age. 
 
